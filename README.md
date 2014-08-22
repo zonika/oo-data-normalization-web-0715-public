@@ -1,9 +1,12 @@
 ---
   tags: todo, serialization, oop
   languages: ruby
+  resources: 
 ---
 
 # Serialization
 
-Implement a Song and Artist class to pass the specs in
-serialization_spec.
+## Objectives
+Implement a Song and Artist class to pass the specs.
+
+## Resources

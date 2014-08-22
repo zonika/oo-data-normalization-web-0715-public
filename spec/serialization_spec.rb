@@ -1,25 +1,4 @@
-RSpec.configure do |config|
-  # Use color in STDOUT
-  config.color_enabled = true
-
-  # Use color not only in STDOUT but also in pagers and files
-  config.tty = true
-
-  # Use the specified formatter
-  config.formatter = :progress # :progress, :html, :textmate
-end
-
-#implement a song class and artist class to pass the specs below.
-#serialize method should replace spaces in the song title with underscores
-#and write to the current working directory
-
-class Song
-  
-end
-
-class Artist
-  
-end
+require_relative "./spec_helper.rb"
 
 describe Song do
   it "has a title" do
