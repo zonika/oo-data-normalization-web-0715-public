@@ -1,7 +1,7 @@
 ---
   tags: todo, serialization, oop
   languages: ruby
-  resources: 
+  resources: 0
 ---
 
 # Serialization
