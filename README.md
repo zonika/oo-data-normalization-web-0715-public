@@ -1,8 +1,4 @@
----
-tags: todo, serialization, oop
-languages: ruby
-resources: 3
----
+
 
 # OO Data Normalization
 
