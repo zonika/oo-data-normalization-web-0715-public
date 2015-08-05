@@ -1,5 +1,5 @@
 require_relative "./spec_helper.rb"
-
+require 'pry'
 describe Song do
   it "has a title" do
     song = Song.new
